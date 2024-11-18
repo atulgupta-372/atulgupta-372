@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Atul Gupta a Freelance Developer and a Final Year student studying Computer Science & Engineering (AI&ML) and Minors in Robotics<br><br>🔭 Currently improving my problem solving skill<br>🤝 Looking Internships to implement my web dev skills<br>📈 Learning React.js
+I'm Atul Gupta a Freelance Developer and a Final Year student pursuing Computer Science & Engineering (AI&ML) and Minors in Robotics<br><br>🔭 Currently improving my problem solving skill<br>🤝 Looking Internships to implement my web dev skills<br>📈 Learning React.js
 
 
 ## 🌐 Socials:
